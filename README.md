@@ -1,3 +1,3 @@
 # Circe Exercises
 
-<img src="completedCirce.jpg" alt="circe"/>
+<img src="./docs/completedCirce.png" alt="circe"/>
